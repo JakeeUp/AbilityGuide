@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AbilityGuide.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AbilityGuide.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AbilityGuideEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AbilityGuide">
+      <UniqueIdentifier>{02E72C2F-E7C1-3D85-8D52-9113D7ADF3FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AbilityGuide\AbilityGuide.Build.cs">
+      <Filter>Source\AbilityGuide</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AbilityGuide\AbilityGuide.cpp">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AbilityGuide\AbilityGuide.h">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AbilityGuide\AbilityGuideCharacter.cpp">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AbilityGuide\AbilityGuideCharacter.h">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AbilityGuide\AbilityGuideGameMode.cpp">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AbilityGuide\AbilityGuideGameMode.h">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AbilityGuide\AttributeHelpers.h">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AbilityGuide\BasicAttributeSet.cpp">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AbilityGuide\BasicAttributeSet.h">
+      <Filter>Source\AbilityGuide</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

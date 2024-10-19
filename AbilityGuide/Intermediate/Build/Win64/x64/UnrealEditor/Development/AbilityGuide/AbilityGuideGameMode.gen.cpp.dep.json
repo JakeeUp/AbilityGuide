@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unity_imports\\abilityguide\\intermediate\\build\\win64\\unrealeditor\\inc\\abilityguide\\uht\\abilityguidegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unity_imports\\abilityguide\\intermediate\\build\\win64\\x64\\abilityguideeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unity_imports\\abilityguide\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\abilityguide\\definitions.abilityguide.h",
+            "d:\\unity_imports\\abilityguide\\source\\abilityguide\\abilityguidegamemode.h",
+            "c:\\users\\jacob fernandez\\epic\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\users\\jacob fernandez\\epic\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\users\\jacob fernandez\\epic\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\users\\jacob fernandez\\epic\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unity_imports\\abilityguide\\intermediate\\build\\win64\\unrealeditor\\inc\\abilityguide\\uht\\abilityguidegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

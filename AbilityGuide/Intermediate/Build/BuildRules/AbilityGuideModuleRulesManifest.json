@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unity_Imports\\AbilityGuide\\Source\\AbilityGuide\\AbilityGuide.Build.cs",
+		"D:\\Unity_Imports\\AbilityGuide\\Source\\AbilityGuide.Target.cs",
+		"D:\\Unity_Imports\\AbilityGuide\\Source\\AbilityGuideEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}

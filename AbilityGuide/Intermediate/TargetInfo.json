@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AbilityGuide",
+			"Path": "..\\Source\\AbilityGuide.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AbilityGuideEditor",
+			"Path": "..\\Source\\AbilityGuideEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
